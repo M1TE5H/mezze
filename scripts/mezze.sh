@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 BUILD_DIR=build
-MAIN_EXE=mezze
+MAIN_EXE=test/mezze.test
 
 LOCAL_C_COMPILER_PATH=gcc
 LOCAL_CXX_COMPILER_PATH=g++

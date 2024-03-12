@@ -33,3 +33,7 @@
 
 # Directories
 build/
+
+# Unix
+**/.DS_Store
+**/DS_Store
